@@ -12,7 +12,7 @@ scanf ("%f",& rate);
 printf ("Enter time,\n");
 scanf ("%f",&time);
 
-si=(principal*rate*time)/100;
+simpleinterest=(principal*rate*time)/100;
 printf ("The simpleinterest is:%.2f",simpleinterest)
 
 
